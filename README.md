@@ -5,7 +5,7 @@
 [![@adityaexec_](https://github.com/AdityaTwinz/Brute-IG/blob/main/assets/bruteIG.gif)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ##### Deskripsi:
-**SCF** dibuat pada **1 Oktober 2023** lalu saya bagikan ke publik pada tanggal ```3 November 2023``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [BruteIG](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
+**Brute-IG** dibuat pada **1 Oktober 2023** lalu saya bagikan ke publik pada tanggal ```3 November 2023``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [BruteIG](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
 
 [![@adityaexec_](-)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
