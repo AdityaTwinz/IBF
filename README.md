@@ -20,7 +20,7 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  $ pkg install python
  $ pkg install git
  $ pip install stdiomask
- $ rm -rf BruteIG
+ $ rm -rf IBF
  $ git clone https://github.com/AdityaTwinz/IBF
  ```
 #### oke sekarang script sudah terinstall
