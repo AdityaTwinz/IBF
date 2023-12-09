@@ -5,7 +5,7 @@
 [![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/Blue%20and%20Beige%20Illustrative%20Music%20YouTube%20Intro%20(1).gif)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ##### Deskripsi:
-**IBF** dibuat pada **1 Oktober 2023** lalu saya bagikan ke publik pada tanggal ```3 November 2023``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [IBF](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
+**IBF** dibuat pada **2 Desember 2022** lalu saya bagikan ke publik pada tanggal ```2des2022``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [IBF](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
 
 [![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/IMG_20231209_130240.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
@@ -37,11 +37,16 @@ python run.py
 ```
 
 ##### ALL MENU:
-[![@adityaexec_](-)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/IMG_20231209_140413.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
-##### RESULTS CRACK:
-[![@adityaexec_](-)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
-[![@adityaexec_](-)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+##### HALAMAN LOGIN:
+[![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/IMG_20231209_140424.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+
+##### FITUR CHECKPOINT DETEKTOR:
+[![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/IMG_20231209_140444.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+
+##### RESULT CRACK:
+[![@adityaexec_](https://github.com/AdityaTwinz/IBF/blob/main/assets/Screenshot_2023-12-09-03-45-08-07_84d3000e3f4017145260f7618db1d683.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
 **[notice me:](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** **banyaknya hasil ok atau cp tergantung target ya**
 
 
