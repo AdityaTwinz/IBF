@@ -7,7 +7,7 @@
 ##### Deskripsi:
 **IBF** dibuat pada **1 Oktober 2023** lalu saya bagikan ke publik pada tanggal ```3 November 2023``` dengan versi 10.1 yang tersedia di termux dan pydroid3. [BruteIG](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
 
-[![@adityaexec_](-)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://g.top4top.io/p_2899lzedc3.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.
 
