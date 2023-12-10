@@ -7,8 +7,7 @@ class Main:
 		self.file = "Instagram.cpp"
 		
 	def build(self):
-		os.system("clear")
-                print(" [!] Sedang Proses Build, Tunggu Sampai Selesai")
+		print(" Sedang Proses Build, Tunggu Sampai Selesai")
 		nama = self.file.split(".")[0]
 		setup(
 			name = self.file,
@@ -26,7 +25,7 @@ class Main:
 			
 	def create_run(self):
 		with open("run.py","w") as run:
-			run.write("from Instagram import AssetAndKey\nAssetAndKey().CekKeys()")
+			run.write("from Instagram import Menu\nAssetAndKey().CekKeys()")
 		exit(" Selesai Menginstall, Silahkan Ketik : python run.py")
 	
 Main().build()
