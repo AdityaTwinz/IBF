@@ -1,8 +1,32 @@
-import os
+import os,sys,shutil
+from distutils.core import setup, Extension
+from Cython.Build import cythonize
 
-def Menuuu():
-    os.system('clear')
-    print(' [+] Script sedang dalam perbaikan oleh admin\n [+] Mohon tunggu sampai selesai ya')
-    os.system('xdg-open https://wa.me/+6283861183874')
-
-os.system('git pull') ; Menuuu()
+class Main:
+	def __init__(self):
+		self.file = "Instagram.cpp"
+		
+	def build(self):
+		os.system("clear")
+        print(" [!] Sedang Proses Build, Tunggu Sampai Selesai")
+		nama = self.file.split(".")[0]
+		setup(
+			name = self.file,
+			ext_modules = cythonize(Extension(name=nama, sources=[self.file])),
+			script_args = ["build_ext", "--inplace", "--force", "-j 5"]
+		)
+		self.clear()
+		
+	def clear(self):
+		try: shutil.rmtree("build/")
+		except:pass
+		try: os.remove(self.file)
+		except:pass
+		self.create_run()
+			
+	def create_run(self):
+		with open("run.py","w") as run:
+			run.write("from Instagram import AssetAndKey\nAssetAndKey().CekKeys()")
+		exit(" Selesai Menginstall, Silahkan Ketik : python run.py")
+	
+Main().build()
