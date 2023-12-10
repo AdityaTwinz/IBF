@@ -20,6 +20,9 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  $ pkg install python
  $ pkg install git
  $ pip install stdiomask
+ $ pip install rich
+ $ pip install requests
+ $ pip install bs4
  $ rm -rf IBF
  $ git clone https://github.com/AdityaTwinz/IBF
  ```
@@ -29,6 +32,7 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  ```
   $ cd IBF
   $ git pull
+  $ python build.py
  ```
 
 ##### CARA MENJALANKAN TOOLS
