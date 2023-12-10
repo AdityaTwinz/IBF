@@ -59,5 +59,9 @@ python run.py
 #### watch me
 **[gunakanlah](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** dengan bijak, atas apapun yang terjadi **admin** tidak akan bertanggung jawab.
 
+
+###### Info:
+untuk versi sekarang hanya support di perangkat yang aarch64 untuk mengecek ketik perintah ini : ```uname -m``` jika muncul *aarch64* selamat anda bisa menggunakan script ini, oh iya script ini juga cuma bisa dijalanin dipython **versi 3.11** untuk mengecek versi python ketik perintah ini : ```python --version```
+
 ###### Thanks for [AdityaTwinz](https://github.com/AdityaTwinz) and [Xyaa-Code](https://github.com/Xyaa-Code)
 
